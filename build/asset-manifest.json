@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/js/0.5f70c7d6.chunk.js": "/static/js/0.5f70c7d6.chunk.js",
+    "static/js/0.5f70c7d6.chunk.js.map": "/static/js/0.5f70c7d6.chunk.js.map",
+    "main.js": "/static/js/main.ee7567aa.chunk.js",
+    "main.js.map": "/static/js/main.ee7567aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bb8240ad.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bb8240ad.js.map",
+    "static/css/3.2aa38b9c.chunk.css": "/static/css/3.2aa38b9c.chunk.css",
+    "static/js/3.7e58236d.chunk.js": "/static/js/3.7e58236d.chunk.js",
+    "static/js/3.7e58236d.chunk.js.map": "/static/js/3.7e58236d.chunk.js.map",
+    "static/js/4.874d507d.chunk.js": "/static/js/4.874d507d.chunk.js",
+    "static/js/4.874d507d.chunk.js.map": "/static/js/4.874d507d.chunk.js.map",
+    "static/js/5.7f71e105.chunk.js": "/static/js/5.7f71e105.chunk.js",
+    "static/js/5.7f71e105.chunk.js.map": "/static/js/5.7f71e105.chunk.js.map",
+    "static/js/6.a1018bc3.chunk.js": "/static/js/6.a1018bc3.chunk.js",
+    "static/js/6.a1018bc3.chunk.js.map": "/static/js/6.a1018bc3.chunk.js.map",
+    "static/js/7.cb9e5e33.chunk.js": "/static/js/7.cb9e5e33.chunk.js",
+    "static/js/7.cb9e5e33.chunk.js.map": "/static/js/7.cb9e5e33.chunk.js.map",
+    "static/js/8.b31c166c.chunk.js": "/static/js/8.b31c166c.chunk.js",
+    "static/js/8.b31c166c.chunk.js.map": "/static/js/8.b31c166c.chunk.js.map",
+    "static/js/9.b0517177.chunk.js": "/static/js/9.b0517177.chunk.js",
+    "static/js/9.b0517177.chunk.js.map": "/static/js/9.b0517177.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/3.2aa38b9c.chunk.css.map": "/static/css/3.2aa38b9c.chunk.css.map",
+    "static/js/3.7e58236d.chunk.js.LICENSE.txt": "/static/js/3.7e58236d.chunk.js.LICENSE.txt",
+    "static/media/champo.8a909d74.png": "/static/media/champo.8a909d74.png",
+    "static/media/ensta.e4b09838.png": "/static/media/ensta.e4b09838.png",
+    "static/media/python.dbaefa1d.png": "/static/media/python.dbaefa1d.png",
+    "static/media/skl.1c761486.png": "/static/media/skl.1c761486.png",
+    "static/media/telecom.60d74a00.png": "/static/media/telecom.60d74a00.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb8240ad.js",
+    "static/css/3.2aa38b9c.chunk.css",
+    "static/js/3.7e58236d.chunk.js",
+    "static/js/main.ee7567aa.chunk.js"
+  ]
+}

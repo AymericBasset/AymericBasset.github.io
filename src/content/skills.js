@@ -1,6 +1,6 @@
 export const skills = {
   id: '1',
-  name: 'Datascience Skills',
+  name: 'Machine Learning Skills',
   children: [
     {
       id: '2',
