@@ -65,7 +65,7 @@ Coursework includes: *Deep Learning, Reinforcement Learning, Metaheuristic Optim
     date: 'May 2019 - August 2019',
     iconStyle: {background: theme.colors.secondary, color: theme.colors.white },
     Icon: WorkIcon,
-    title: 'Research Intership',
+    title: 'Research Internship',
     subtitle: "King's College London",
     imageLink: 'https://www.kcl.ac.uk/psychology-systems-sciences/about/departments/biostatistics-and-health-informatics',
     image: kcl,
