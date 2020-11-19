@@ -19,7 +19,7 @@ A second objective was **model explainability** and **real-time analysis of the 
     description: `
 I'm currently working on getting as much of my work available on github, yet some have non-disclosure agreement issues and others need to be polished. 
 Please make sure to check back later or contact me directly to talk more about the rest of my projects!
-I will be adding soon (non-exaustive): Gan research on financial time series, Reiforcement Learning game engine, Tool for imputation of missing values in large industrial databases,
+I will be adding soon (non-exaustive): Gan research on financial time series, Reinforcement Learning game engine, Tool for imputation of missing values in large industrial databases,
 Web scrapping tool for health related topics ...
 
 `,
