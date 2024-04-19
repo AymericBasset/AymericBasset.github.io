@@ -21,26 +21,25 @@ const Contact = () => {
       >
         Linkedin
       </Button>
-      /*
-      <Button
-        variant="contained"
-        href="./assets/Aymeric_Basset_resume.pdf"
-        download="aymeric_basset_resume.pdf"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Resume
       
-      </Button>
-      <Button
-        variant="contained"
-        href="https://github.com/AymericBasset"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        Github
-      </Button>
-      */
+      //<Button
+        //variant="contained"
+        //href="./assets/Aymeric_Basset_resume.pdf"
+        //download="aymeric_basset_resume.pdf"
+        //target="_blank"
+        //rel="noopener noreferrer"
+      //>
+        //Resume
+      
+      //</Button>
+      //<Button
+        //variant="contained"
+        //href="https://github.com/AymericBasset"
+        //target="_blank"
+        //rel="noopener noreferrer"
+      //>
+        //Github
+      //</Button>
     </Section>
   )
 }
