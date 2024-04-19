@@ -21,6 +21,7 @@ const Contact = () => {
       >
         Linkedin
       </Button>
+      /*
       <Button
         variant="contained"
         href="./assets/Aymeric_Basset_resume.pdf"
@@ -29,6 +30,7 @@ const Contact = () => {
         rel="noopener noreferrer"
       >
         Resume
+      
       </Button>
       <Button
         variant="contained"
@@ -38,6 +40,7 @@ const Contact = () => {
       >
         Github
       </Button>
+      */
     </Section>
   )
 }
