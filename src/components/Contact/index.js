@@ -3,8 +3,8 @@ import MuiButton from '@material-ui/core/Button'
 import withParallaxLayer from '../../HOC/withParallaxLayer'
 
 /**
- * The Contact section
- *
+ * The Contact section component that provides links to LinkedIn, a resume, and GitHub.
+ * 
  * @component
  * @example
  * <Contact />
@@ -12,35 +12,34 @@ import withParallaxLayer from '../../HOC/withParallaxLayer'
 const Contact = () => {
   return (
     <Section role="contentinfo">
-      <H1>Contact Me !</H1>
+      <H1>Contact Me!</H1>
       <Button
         variant="contained"
         href="https://www.linkedin.com/in/aymeric-basset/"
         target="_blank"
         rel="noopener noreferrer"
       >
-        Linkedin
+        LinkedIn
       </Button>
-      /**
-        *<Button
-        *variant="contained"
-        *href="./assets/Aymeric_Basset_resume.pdf"
-        *download="aymeric_basset_resume.pdf"
-        *target="_blank"
-        *rel="noopener noreferrer"
-        *>
-        *Resume
-      
-        *</Button>
-        *<Button
-        *variant="contained"
-        *href="https://github.com/AymericBasset"
-        *target="_blank"
-        *rel="noopener noreferrer"
-        *>
-        *Github
-        *</Button>
-        */
+      {/* Commented out other buttons temporarily
+      <Button
+        variant="contained"
+        href="./assets/Aymeric_Basset_resume.pdf"
+        download="aymeric_basset_resume.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        Resume
+      </Button>
+      <Button
+        variant="contained"
+        href="https://github.com/AymericBasset"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        GitHub
+      </Button>
+      */}
     </Section>
   )
 }
